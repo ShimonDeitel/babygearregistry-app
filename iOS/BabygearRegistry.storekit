@@ -1,0 +1,27 @@
+{
+  "identifier" : "BabygearRegistry",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "BabygearRegistryPro",
+      "localizations" : [
+        {
+          "description" : "Unlock Size-outgrown alerts and hand-me-down history.",
+          "displayName" : "BabygearRegistry Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.babygearregistry.pro",
+      "referenceName" : "BabygearRegistry Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
